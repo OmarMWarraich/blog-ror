@@ -85,6 +85,11 @@ You can download the page by clicking in the code green button and select Downlo
 - Run this command `rails db:migrate` to migrate the database
 - Run this command `rails server` to start the server
 
+### Basic Authentication
+
+- User Name: dhh
+- Password: secret
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Tests 
